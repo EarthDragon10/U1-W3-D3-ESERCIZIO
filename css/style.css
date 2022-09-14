@@ -1,0 +1,26 @@
+#box-fifty-age {
+	background-color: green;
+	color: white;
+	font-size: 2em;
+	display: inline-block;
+	text-align: center;
+	padding: 8px 12px;
+}
+
+#box-eighteen-age {
+	background-color: red;
+	color: white;
+	font-size: 2em;
+	display: inline-block;
+	text-align: center;
+	padding: 8px 12px;
+}
+
+#box-hundred-age {
+	background-color: yellow;
+	color: black;
+	font-size: 2em;
+	display: inline-block;
+	text-align: center;
+	padding: 8px 12px;
+}
