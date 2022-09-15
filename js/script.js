@@ -7,6 +7,8 @@ function calcRemainYearsToEighteen(ageInput) {
 	}
 }
 
+// const calcRemainYearsToEighteen = (ageInput) => {}
+
 function calcRemainYearsToFifty(ageInput) {
 	let differenceAge = 50 - ageInput;
 	if (ageInput <= 50) {
